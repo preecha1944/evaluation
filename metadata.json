@@ -1,0 +1,5 @@
+{
+  "name": "ระบบประเมินผลพนักงานราชการ",
+  "description": "ระบบ Web Application สำหรับประเมินผลการปฏิบัติงานพนักงานราชการ (ผลสัมฤทธิ์และสมรรถนะ) เชื่อมต่อ Google Sheets",
+  "requestFramePermissions": []
+}
